@@ -2,7 +2,7 @@
 # Simple Calculations
 
 This package is very usefull for simple calculations.
-Version 1.0.2
+Version 1.0.3
 
 ## Installation
 
