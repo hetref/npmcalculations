@@ -1,0 +1,26 @@
+{
+  "name": "npm-calculations",
+  "version": "1.0.0",
+  "description": "A simple calculation package",
+  "engines": {
+    "node": ">=8.10.0"
+  },
+  "files": [
+    "index.js",
+    "Readme.md"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hetref/npmcalculations.git"
+  },
+  "author": "Aryan Shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hetref/npmcalculations/issues"
+  },
+  "homepage": "https://github.com/hetref/npmcalculations#readme"
+}
