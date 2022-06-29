@@ -1,5 +1,5 @@
 module.exports = {
-    addnum: async (num, addby) => {
+    addnum: (num, addby) => {
         const addition = num + addby;
         return addition;
     }
